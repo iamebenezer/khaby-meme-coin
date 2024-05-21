@@ -28,8 +28,8 @@
 
 .elementor-524 .elementor-element.elementor-element-90f7cd9:not(.elementor-motion-effects-element-type-background),
 .elementor-524 .elementor-element.elementor-element-90f7cd9>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: linear-gradient(to right top, #a519c9, #fff, #c100b0, #cb00a4, #d30099, #cf0084, #c80070, #bf005e, #a70042, #8d052b, #720a17, #590c03);
-
+    /* background-image: linear-gradient(to right top, #a519c9, #fff, #c100b0, #cb00a4, #d30099, #cf0084, #c80070, #bf005e, #a70042, #8d052b, #720a17, #590c03); */
+    background-color: #fff;
 }
 
 .elementor-524 .elementor-element.elementor-element-90f7cd9 {
@@ -359,7 +359,6 @@
 .elementor-524 .elementor-element.elementor-element-1a33feb .click-to-copy__text {
     background-color: #F6F2EE00;
     border-style: none;
-    color: #000;
     border-radius: 0px;
 }
 
@@ -594,12 +593,10 @@
 .elementor-524 .elementor-element.elementor-element-3404849 .copy_succes {
     padding: 10px 10px 10px 10px;
     min-width: 100px;
-    color: #000;
 }
 
 .elementor-524 .elementor-element.elementor-element-3404849 .click-to-copy__text {
     background-color: #F6F2EE00;
-    color: #000;
     border-style: none;
     border-radius: 0px;
 }
@@ -812,7 +809,7 @@
 
 .elementor-524 .elementor-element.elementor-element-c808386:not(.elementor-motion-effects-element-type-background),
 .elementor-524 .elementor-element.elementor-element-c808386>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("/wp-content/uploads/2024/05/7432101-Recovered_Mesa-de-trabajo-1-scaled.jpg");
+    background-image: url("https://trumpsfirstdog.com/wp-content/uploads/2024/05/7432101-Recovered_Mesa-de-trabajo-1-scaled.jpg");
     background-position: center center;
     background-size: cover;
 }
