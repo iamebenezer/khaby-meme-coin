@@ -818,7 +818,7 @@
     border-style: solid;
     border-width: 3px 3px 3px 3px;
     border-color: #21160B;
-    box-shadow: 5px 5px 0px 0px #21160B;
+    /* box-shadow: 5px 5px 0px 0px #21160B; */
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     margin-top: 3em;
     margin-bottom: 0em;
